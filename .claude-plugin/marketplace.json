@@ -1,0 +1,5 @@
+{
+  "name": "usage-footer",
+  "owner": { "name": "acanturgut" },
+  "plugins": [{ "name": "usage-footer", "source": "./" }]
+}

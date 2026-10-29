@@ -1,0 +1,1 @@
+{ "name": "usage-footer", "version": "0.1.0", "description": "Context, cost and rate limits under the prompt; permission mode and ponytail moved to the right", "types": "./types/index.d.ts" }
